@@ -1,4 +1,4 @@
-### Hey there visitor <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px">!
+### Hey there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px">, I'm Pramika Garg!
 
 I am a honours bio chemistry student turned computer science engineer who is interested in Artificial Intelligence and Machine Learning as well as Biotechnology.
 - 🔭 I’m currently learning Machine Learning & exploring Neural Networks with Python!
