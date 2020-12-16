@@ -10,7 +10,7 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/micepram/)](https://www.linkedin.com/in/micepram/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micepram@gmail.com)](mailto:micepram@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-FFFFFF?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/m_i_k_a_29/)](https://www.instagram.com/m_i_k_a_29/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/m_i_k_a_29/)](https://www.instagram.com/m_i_k_a_29/)
 
 ![Pramika's github stats](https://github-readme-stats.vercel.app/api?username=micepram&show_icons=true&theme=radical)
 
