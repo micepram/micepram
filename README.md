@@ -12,7 +12,7 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micepram@gmail.com)](mailto:micepram@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/m_i_k_a_29/)](https://www.instagram.com/m_i_k_a_29/) -->
 <br>
- <a href="https://in.linkedin.com/in/micepram>
+  <a href="https://in.linkedin.com/in/micepram">
     <img align="left" alt="Pramika Garg | Linkedin" width="20px" src="https://github.com/micepram/micepram/blob/master/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/Pramikag">
