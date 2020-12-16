@@ -11,7 +11,6 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
 <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/micepram/)](https://www.linkedin.com/in/micepram/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micepram@gmail.com)](mailto:micepram@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/m_i_k_a_29/)](https://www.instagram.com/m_i_k_a_29/) -->
-<br>
   <a href="https://in.linkedin.com/in/micepram">
     <img align="left" alt="Pramika Garg | Linkedin" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Linkedin.svg" />
   </a>
@@ -24,7 +23,7 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
   <a href="mailto:micepram@gmail.com">
     <img align="left" alt="Pramika Garg | Gmail" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Gmail.svg" />
   </a>
-<br>
+<br><br><br>
  
 ![Pramika's github stats](https://github-readme-stats.vercel.app/api?username=micepram&show_icons=true&theme=radical)
 
