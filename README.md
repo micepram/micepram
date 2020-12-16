@@ -1,6 +1,6 @@
-### Hey there visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="23px">!
+### Hey there visitor <img src="https://raw.githubusercontent.com/micepram/micepram/master/gifs/Hi.gif" width="23px">!
 
-I am a honours bio chemistry student turned computer science engineer who is interested in AI and Machine Learning as well as Data Science. Also in every new technology that is making our lives easier!
+I am a honours bio chemistry student turned computer science engineer who is interested in Artificial Intelligence and Machine Learning as well as Biotechnology.
 - 🔭 I’m currently learning Machine Learning & exploring Neural Networks with Python!
 - 🌱 I’m currently starting to learn Data Structures and Algorithms!
 - 👯 I’m looking to collaborate on a tech projects in any domain!
