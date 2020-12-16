@@ -1,8 +1,8 @@
 ### Hey there visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="23px">!
 
 I am a honours bio chemistry student turned computer science engineer who is interested in AI and Machine Learning as well as Data Science. Also in every new technology that is making our lives easier!
-- 🔭 I’m currently learning Machine Learning & exploring Neural Networks with Python
-- 🌱 I’m currently starting to learn Data Structures and Algorithms
+- 🔭 I’m currently learning Machine Learning & exploring Neural Networks with Python!
+- 🌱 I’m currently starting to learn Data Structures and Algorithms!
 - 👯 I’m looking to collaborate on a tech projects in any domain!
 - 🤔 I’m looking for help with creating an POSIX Argument Parser Parsify using Python 3!
 
