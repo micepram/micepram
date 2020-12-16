@@ -1,6 +1,6 @@
 ### Hey there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px">, I'm Pramika Garg!
 
-I am a Honours Bio Chemistry student turned Computer Science Engineer who is passionate about Artificial Intelligence and Machine Learning as well as Biotechnology.
+I was a Honours Bio Chemistry student who has turned into a Computer Science Engineer! I love to work on projects to make an impact in the Machine Learning, Artificial Intelligence & Bio-Engineering field. I am passionate about developing products with a hands-on approach that can make a real world mpact.
 - 🔭 I’m currently learning Machine Learning & exploring Neural Networks with Python!
 - 🌱 I’m currently starting to learn Data Structures and Algorithms!
 - 👯 I’m looking to collaborate on a tech projects in any domain!
