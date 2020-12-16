@@ -16,7 +16,7 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
     <img align="left" alt="Pramika Garg | Linkedin" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/Pramikag">
-    <img align="left" alt="Pramika Garg | Twitter" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Twitter.svg />
+    <img align="left" alt="Pramika Garg | Twitter" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/m_i_k_a_29/">
     <img align="left" alt="Pramika Garg | Instagram" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Instagram.svg" />
