@@ -11,6 +11,6 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/micepram/)](https://www.linkedin.com/in/micepram/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micepram@gmail.com)](mailto:micepram@gmail.com)
 
-![Pramika's github stats](https://github-readme-stats.vercel.app/api?username=micepram&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+![Pramika's github stats](https://github-readme-stats.vercel.app/api?username=micepram&show_icons=true&theme=tokyonight)
 
 
