@@ -13,16 +13,16 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/m_i_k_a_29/)](https://www.instagram.com/m_i_k_a_29/) -->
 <br>
   <a href="https://in.linkedin.com/in/micepram">
-    <img align="left" width="20px" src="https://github.com/micepram/micepram/blob/master/Linkedin.svg" />
+    <img align="left" alt="Pramika Garg | Linkedin" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/Pramikag">
-    <img align="left" alt="Pramika Garg | Twitter" width="20px" src="https://github.com/micepram/micepram/blob/master/Twitter.svg" />
+    <img align="left" alt="Pramika Garg | Twitter" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Twitter.svg />
   </a>
   <a href="https://www.instagram.com/m_i_k_a_29/">
-    <img align="left" alt="Pramika Garg | Instagram" width="20px" src="https://github.com/micepram/micepram/blob/master/Instagram.svg" />
+    <img align="left" alt="Pramika Garg | Instagram" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Instagram.svg" />
   </a>
   <a href="mailto:micepram@gmail.com">
-    <img align="left" alt="Pramika Garg | Gmail" width="20px" src="https://github.com/micepram/micepram/blob/master/Gmail.svg" />
+    <img align="left" alt="Pramika Garg | Gmail" width="20px" src="https://raw.githubusercontent.com/micepram/micepram/main/Gmail.svg" />
   </a>
 <br>
  
