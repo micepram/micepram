@@ -25,6 +25,7 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
     <img align="left" alt="Pramika Garg | Gmail" width="20px" src="https://github.com/micepram/micepram/blob/master/Gmail.svg" />
   </a>
 <br>
+ 
 ![Pramika's github stats](https://github-readme-stats.vercel.app/api?username=micepram&show_icons=true&theme=radical)
 
 
