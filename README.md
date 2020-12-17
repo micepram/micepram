@@ -26,6 +26,6 @@ I was a Honours Biochemistry student who has turned into a Computer Science Engi
   </a>
 <br><br><br>
  
-![Pramika's github stats](https://github-readme-stats.vercel.app/api?username=micepram&show_icons=true&theme=radical)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=micepram&style=flat-square" alt="Pramika's Github Stats" /> </p>
 
 
